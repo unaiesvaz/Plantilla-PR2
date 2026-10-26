@@ -1,0 +1,19 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# Arxius generats en executar (bases de dades, logs)
+data/*.db
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Sistema operatiu
+.DS_Store
+Thumbs.db
